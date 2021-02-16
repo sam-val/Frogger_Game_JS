@@ -46,20 +46,16 @@
 
 
 
-
+.logBg {
+    background: purple;
+}
 
 .log {
     background: brown;
 }
-
 .frog {
     background: green;
 }
-
 .car {
     background: red;
-}
-
-.logBg {
-    background: purple;
 }
