@@ -1,5 +1,5 @@
 ## FROGGER GAME
-Not exactly like frogger. By my own version. Enjoy.
+Not exactly like classic frogger. Kinda my own version. Enjoy.
 
 ## Gameplay:
 You try to go accoss to the yellow finish line. 
